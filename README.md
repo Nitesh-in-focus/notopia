@@ -1,6 +1,56 @@
-Here’s a complete rewrite of the `README.md` file for your React + Vite project with Tailwind CSS installation and details about the packages used:
+# 📝 Notopia – Minimal Note-Taking App
+
+> A clean, fast, and distraction-free markdown note-taking app, built for creators.
+
+**🔗 Live at:** [https://notopia-nitesh.vercel.app/login](https://notopia-nitesh.vercel.app/login)
 
 ---
+
+## 🚀 Features
+
+- 🔥 **Vite** – Super fast bundler with HMR
+- ⚛️ **React** – Component-based scalable UI
+- 🎨 **Tailwind CSS** – Utility-first modern styling
+- 📦 **Redux Toolkit** – Efficient state management
+- 🔐 **Firebase** – Authentication + Firestore + Storage
+- 📁 **Folder Management** – Organize notes into folders
+- ✍️ **Markdown Preview** – Clean live rendering
+- 🎙️ **Voice-to-Text** – Dictate notes using your mic
+- 🔔 **React Hot Toast** – Smooth, elegant notifications
+- 🛤 **React Router DOM** – Seamless client-side routing
+- ☁️ **Vercel Hosting** – Blazing-fast global CDN deployment
+
+---
+
+## 📦 Tech Stack
+
+| Layer        | Tools Used                            |
+|--------------|----------------------------------------|
+| Frontend     | React, Tailwind CSS, Vite              |
+| State Mgmt   | Redux Toolkit                          |
+| Routing      | React Router DOM                       |
+| Notifications| React Hot Toast                        |
+| Auth/Backend | Firebase Auth + Firestore + Storage    |
+| Icons        | Lucide React                           |
+| Hosting      | Vercel                                 |
+
+---
+
+## 🌐 Live Demo
+
+👉 Check it out now:  
+**[🔗 notopia-nitesh.vercel.app/login](https://notopia-nitesh.vercel.app/login)**
+
+---
+
+## 🛠️ Installation & Setup
+
+### 1. Clone the repo
+
+```bash
+git clone https://github.com/your-username/notopia.git
+cd notopia
+
 
 # React + Vite + TailwindCSS Template
 
