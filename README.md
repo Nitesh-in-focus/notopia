@@ -2,7 +2,7 @@
 
 > A clean, fast, and distraction-free markdown note-taking app, built for creators.
 
-**🔗 Live at:** [https://notopia-nitesh.vercel.app/login](https://notopia-nitesh.vercel.app/login)
+**🔗 Live at:** [https://notopia-nitesh.vercel.app](https://notopia-nitesh.vercel.app)
 
 ---
 
