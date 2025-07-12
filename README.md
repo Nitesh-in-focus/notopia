@@ -39,7 +39,7 @@
 ## 🌐 Live Demo
 
 👉 Check it out now:  
-**[🔗 notopia-nitesh.vercel.app/login](https://notopia-nitesh.vercel.app/login)**
+**[🔗 notopia-nitesh.vercel.app](https://notopia-nitesh.vercel.app)**
 
 ---
 
